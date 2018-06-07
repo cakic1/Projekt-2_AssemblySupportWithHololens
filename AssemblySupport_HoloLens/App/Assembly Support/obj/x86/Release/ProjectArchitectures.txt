@@ -1,0 +1,4 @@
+E:\BFH\2018-FS Semester\Projekt2\Unity-SelbstStudium\AssemblySupport_HoloLens\App\Assembly Support\Assembly Support.csproj;x86
+E:\BFH\2018-FS Semester\Projekt2\Unity-SelbstStudium\AssemblySupport_HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+E:\BFH\2018-FS Semester\Projekt2\Unity-SelbstStudium\AssemblySupport_HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+E:\BFH\2018-FS Semester\Projekt2\Unity-SelbstStudium\AssemblySupport_HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

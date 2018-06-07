@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblySupport_HoloLens", "AssemblySupport_HoloLens.csproj", "{628391F0-8202-B2E7-4135-00BD0785A625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblySupport_HoloLens.Editor", "AssemblySupport_HoloLens.Editor.csproj", "{0F8F8925-FD78-797D-F3EF-313235B0292A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628391F0-8202-B2E7-4135-00BD0785A625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628391F0-8202-B2E7-4135-00BD0785A625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628391F0-8202-B2E7-4135-00BD0785A625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628391F0-8202-B2E7-4135-00BD0785A625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8F8925-FD78-797D-F3EF-313235B0292A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8F8925-FD78-797D-F3EF-313235B0292A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8F8925-FD78-797D-F3EF-313235B0292A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8F8925-FD78-797D-F3EF-313235B0292A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
